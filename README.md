@@ -16,4 +16,4 @@ Client based on Qt5.7, which captured a image from camera, send it to server, an
 Server based on Python3.5, whick receive a image from client, return expression tag. 
 
 # Result
-![image](https://github.com/XPping/expression-recognition/raw/master/python_server/.png)
+![image](https://github.com/XPping/expression-recognition/raw/master/python_server/result.png)
